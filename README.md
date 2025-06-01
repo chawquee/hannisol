@@ -1,2 +1,0 @@
-# hannisol
-hannisol project
